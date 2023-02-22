@@ -1,5 +1,4 @@
-
-
+#Settings
 * Editor:
     * minimap = Disable
     * Wrap Tabs = Enable
@@ -16,6 +15,10 @@
 
 * Workbench: Editor:
     * Enable Preview = Disable
-    * Label Format = ("short" for files in a svelte[kit] project)("medium" for a general project)
+    * Label Format = (Default: Best for general use)(Short: for svelte[kit] project)
 
 
+#Shortcuts:
+* CTRL+K+C = Comment block of lines
+* CTRL+K+U = Uncomment block of lines
+* 
