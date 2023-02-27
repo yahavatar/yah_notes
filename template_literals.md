@@ -19,4 +19,5 @@
 
         * Because the 'map' uses only one line, you can dramatically shorten it!
 
-
+* Here's one that works for doing an if:
+  * ${json.admin == true ? `Admin` : `Not Admin`}
